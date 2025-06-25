@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "how do i connect langchain and chroma db"
+  },
+  {
+    "role": "assistant",
+    "content": {
+      "content": null,
+      "role": "assistant",
+      "executed_tools": null,
+      "function_call": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "id": "m6e633056",
+          "function": {
+            "arguments": "{\"game_name\":\"Langchain\"}",
+            "name": "search_game_info"
+          },
+          "type": "function"
+        }
+      ]
+    }
+  }
+]

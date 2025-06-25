@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "give some detail about chroma db"
+  },
+  {
+    "role": "assistant",
+    "content": null
+  }
+]

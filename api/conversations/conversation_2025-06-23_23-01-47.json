@@ -1,0 +1,23 @@
+[
+  {
+    "role": "user",
+    "content": "Hello"
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\nNo game found."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "I didn't find any game information. Would you like to search for something else?"
+  }
+]

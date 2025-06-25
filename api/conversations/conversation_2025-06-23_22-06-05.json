@@ -1,0 +1,21 @@
+[
+  {
+    "role": "user",
+    "content": "how do i connect langchain and chroma db"
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "tool_result",
+        "tool_use_id": "14n4nrccv",
+        "content": [
+          {
+            "type": "text",
+            "text": "\ud83c\udfae **Chroma**\n\ud83d\udcc5 Released: 1732752000\n\ud83c\udfad Genres: Adventure, Indie\n\n\ud83d\udd17 Similar Games: Apsulov: End of Gods, Eternity: The Last Unicorn, Havocado"
+          }
+        ]
+      }
+    ]
+  }
+]

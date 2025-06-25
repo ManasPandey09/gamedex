@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "similar games to god of war"
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\n\ud83c\udfae **The Darkside Detective: A Fumble in the Dark - Tales of the Darkside**\n\ud83d\udcc5 Released: 1618444800\n\ud83c\udfad Genres: Point-and-click, Puzzle, Adventure, Indie\n\ud83c\udfe2 Developers: Akupara Games, Spooky Doorway\n\n\ud83d\udd17 Similar Games: Rusty Lake Hotel, Rusty Lake: Roots, Unforeseen Incidents"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\n\ud83c\udfae **Rusty Lake Hotel**\n\ud83d\udcc5 Released: 1450051200\n\ud83c\udfad Genres: Point-and-click, Puzzle, Adventure, Indie\n\ud83c\udfe2 Developers: Rusty Lake\n\u2b50 Rating: 60.6\n\n\ud83d\udd17 Similar Games: Rusty Lake: Roots, Unforeseen Incidents, Masochisia"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\n\ud83c\udfae **Unforeseen Incidents**\n\ud83d\udcc5 Released: 1527120000\n\ud83c\udfad Genres: Point-and-click, Puzzle, Adventure, Indie\n\ud83c\udfe2 Developers: Backwoods Entertainment, Application Systems Heidelberg\n\u2b50 Rating: 73.0\n\n\ud83d\udd17 Similar Games: Rusty Lake Hotel, The Room 4: Old Sins, Quern: Undying Thoughts"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\n\ud83c\udfae **The Room 4: Old Sins**\n\ud83d\udcc5 Released: 1516838400\n\ud83c\udfad Genres: Point-and-click, Puzzle, Adventure\n\ud83c\udfe2 Developers: Fireproof Games\n\u2b50 Rating: 78.9\n\n\ud83d\udd17 Similar Games: Unforeseen Incidents, Rusty Lake Hotel, Myst"
+      }
+    ]
+  }
+]

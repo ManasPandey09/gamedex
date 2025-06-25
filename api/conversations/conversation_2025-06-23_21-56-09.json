@@ -1,0 +1,54 @@
+[
+  {
+    "role": "user",
+    "content": "how do i connect langchain and chroma db"
+  },
+  {
+    "role": "assistant",
+    "content": {
+      "content": null,
+      "role": "assistant",
+      "executed_tools": null,
+      "function_call": null,
+      "reasoning": null,
+      "tool_calls": [
+        {
+          "id": "htjthvhce",
+          "function": {
+            "arguments": "{\"game_name\":\"Langchain\"}",
+            "name": "search_game_info"
+          },
+          "type": "function"
+        },
+        {
+          "id": "4a95xgc8e",
+          "function": {
+            "arguments": "{\"game_name\":\"Chroma DB\"}",
+            "name": "search_game_info"
+          },
+          "type": "function"
+        },
+        {
+          "id": "1y50s564z",
+          "function": {
+            "arguments": "{\"library\":\"Langchain\",\"query\":\"Chroma DB\"}",
+            "name": "get_docs"
+          },
+          "type": "function"
+        }
+      ]
+    }
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "tool_result",
+        "tool_use_id": "htjthvhce",
+        "content": [
+          "type='text' text='No game found.' annotations=None"
+        ]
+      }
+    ]
+  }
+]

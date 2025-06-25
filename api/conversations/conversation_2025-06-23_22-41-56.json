@@ -1,0 +1,23 @@
+[
+  {
+    "role": "user",
+    "content": "god of war"
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\n\ud83c\udfae **God of War**\n\ud83d\udcc5 Released: 1524182400\n\ud83c\udfad Genres: Role-playing (RPG), Hack and slash/Beat 'em up, Adventure\n\ud83c\udfe2 Developers: Sony Interactive Entertainment, SIE Santa Monica Studio, Jetpack Interactive\n\u2b50 Rating: 92.4\n\n\ud83d\udcdd Storyline: Many years have passed since Kratos, Spartan warrior and former Greek God of War, took his vengeance against the Greek Gods, and he now lives with his young son Atreus in ancient Norway in the realm of Midgard. The game begins after the death of the J\u00f6tunn warrior Faye, Kratos' second wife and Atreus' mother, whose last request was for her ashes to be spread at the highest speak of the nine realms. Kratos and Atreus prepare a funeral pyre for her, mourn her death and soon go on a hunt as per Kratos' desire. However much to Kratos' disappointment, Atreus proves his incompetence and lack of focus, making Kratos reconsider taking Atreus in his journey. Kratos is soon attacked by a mysterious stranger with godlike powers, and who cannot feel anything physically. After seemingly killing him, Kratos reluctantly takes Atreus with him and begins their journey.\n\n\ud83d\udd17 Similar Games: God of War Ragnar\u00f6k, The Last of Us Part II, Horizon Zero Dawn"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Here's more information about the God of War series:"
+  }
+]

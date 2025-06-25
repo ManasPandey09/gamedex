@@ -1,0 +1,45 @@
+[
+  {
+    "role": "user",
+    "content": "similar games to god of war"
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\n\ud83c\udfae **The Darkside Detective: A Fumble in the Dark - Tales of the Darkside**\n\ud83d\udcc5 Released: 1618444800\n\ud83c\udfad Genres: Point-and-click, Puzzle, Adventure, Indie\n\ud83c\udfe2 Developers: Akupara Games, Spooky Doorway\n\n\ud83d\udd17 Similar Games: Rusty Lake Hotel, Rusty Lake: Roots, Unforeseen Incidents"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\n\ud83c\udfae **Rusty Lake Hotel**\n\ud83d\udcc5 Released: 1450051200\n\ud83c\udfad Genres: Point-and-click, Puzzle, Adventure, Indie\n\ud83c\udfe2 Developers: Rusty Lake\n\u2b50 Rating: 60.6\n\n\ud83d\udd17 Similar Games: Rusty Lake: Roots, Unforeseen Incidents, Masochisia"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\n\ud83c\udfae **Monster Hunter: World**\n\ud83d\udcc5 Released: 1516924800\n\ud83c\udfad Genres: Role-playing (RPG), Adventure\n\ud83c\udfe2 Developers: Capcom, Digital Works Entertainment\n\u2b50 Rating: 84.5\n\n\ud83d\udcdd Storyline: The player takes the role of a player-created character who travels to the \"New World\", an unpopulated landmass filled with monsters, to join the Research Commission that studies the land from their central command base of Astera.\n\n\ud83d\udd17 Similar Games: Code Vein, GreedFall, Legrand Legacy"
+      }
+    ]
+  }
+]

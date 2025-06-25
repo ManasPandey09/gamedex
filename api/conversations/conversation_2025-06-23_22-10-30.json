@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "how do i connect langchain and chroma db"
+  },
+  {
+    "role": "assistant",
+    "content": null
+  }
+]

@@ -1,0 +1,495 @@
+2025-06-23 20:56:42,582 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 20:56:42,585 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:00:49,067 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 21:00:49,074 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:01:16,757 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 21:01:16,766 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:01:29,262 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 21:01:29,272 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:06:15,628 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 21:06:15,636 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:07:12,246 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 21:07:12,252 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:07:31,166 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 21:07:31,174 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:12:58,933 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:14:29,231 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:15:00,606 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:18:51,877 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:18:59,381 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:20:32,238 - MCPClient - ERROR - Error connecting to MCP server: Connection closed
+2025-06-23 21:20:32,241 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:23:04,157 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:23:04,161 - MCPClient - INFO - Available tools: ['get_docs']
+2025-06-23 21:23:21,083 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:23:50,599 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:23:50,606 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:29:35,069 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:29:35,074 - MCPClient - INFO - Calling LLM
+2025-06-23 21:29:35,075 - MCPClient - ERROR - Error calling LLM: 'Groq' object has no attribute 'messages'
+2025-06-23 21:29:35,076 - MCPClient - ERROR - Error processing query: 'Groq' object has no attribute 'messages'
+2025-06-23 21:31:34,832 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:31:37,654 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:31:37,658 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:31:40,461 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:31:40,461 - MCPClient - INFO - Calling LLM
+2025-06-23 21:31:40,878 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'error': {'message': "'tools.0.type' : property 'type' is missing", 'type': 'invalid_request_error'}}
+2025-06-23 21:31:40,879 - MCPClient - ERROR - Error processing query: Error code: 400 - {'error': {'message': "'tools.0.type' : property 'type' is missing", 'type': 'invalid_request_error'}}
+2025-06-23 21:34:46,703 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:34:49,674 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:34:49,677 - MCPClient - ERROR - Error connecting to MCP server: 'name'
+2025-06-23 21:34:49,681 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:35:10,408 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:35:10,411 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:35:18,195 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:35:21,013 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:35:21,016 - MCPClient - ERROR - Error connecting to MCP server: 'name'
+2025-06-23 21:35:21,020 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:37:15,048 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:37:15,052 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:37:19,324 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:37:19,324 - MCPClient - INFO - Calling LLM
+2025-06-23 21:37:20,032 - MCPClient - ERROR - Error processing query: 'ChatCompletion' object has no attribute 'content'
+2025-06-23 21:48:00,994 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:48:04,314 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:48:04,318 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:48:06,746 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:48:06,746 - MCPClient - INFO - Calling LLM
+2025-06-23 21:48:11,145 - MCPClient - ERROR - Error processing query: 'ChatCompletion' object has no attribute 'content'
+2025-06-23 21:48:15,191 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:48:15,191 - MCPClient - INFO - Calling LLM
+2025-06-23 21:48:15,736 - MCPClient - ERROR - Error processing query: 'ChatCompletion' object has no attribute 'content'
+2025-06-23 21:49:43,056 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:49:46,027 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:49:46,031 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:49:49,860 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:49:49,860 - MCPClient - INFO - Calling LLM
+2025-06-23 21:49:50,485 - MCPClient - ERROR - Error processing query: 'ChatCompletion' object has no attribute 'content'
+2025-06-23 21:50:39,359 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:50:42,819 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:50:42,823 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:50:44,942 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:50:44,942 - MCPClient - INFO - Calling LLM
+2025-06-23 21:50:45,611 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'langchain'}
+2025-06-23 21:50:48,539 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 21:50:48,540 - MCPClient - INFO - Calling LLM
+2025-06-23 21:50:48,545 - MCPClient - ERROR - Error calling LLM: Object of type TextContent is not JSON serializable
+2025-06-23 21:50:48,545 - MCPClient - ERROR - Error processing query: Object of type TextContent is not JSON serializable
+2025-06-23 21:55:43,346 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:55:46,182 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:55:46,186 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:55:49,073 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:55:49,074 - MCPClient - INFO - Calling LLM
+2025-06-23 21:55:49,660 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'LangChain'}
+2025-06-23 21:55:52,370 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 21:55:52,372 - MCPClient - INFO - Calling LLM
+2025-06-23 21:55:52,373 - MCPClient - ERROR - Error calling LLM: Object of type TextContent is not JSON serializable
+2025-06-23 21:55:52,374 - MCPClient - ERROR - Error processing query: Object of type TextContent is not JSON serializable
+2025-06-23 21:55:58,102 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:56:00,953 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:56:00,956 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:56:05,771 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:56:05,771 - MCPClient - INFO - Calling LLM
+2025-06-23 21:56:06,705 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Langchain'}
+2025-06-23 21:56:09,362 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 21:56:09,364 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Chroma DB'}
+2025-06-23 21:56:10,471 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 21:56:10,472 - MCPClient - INFO - Calling tool get_docs with args {'library': 'Langchain', 'query': 'Chroma DB'}
+2025-06-23 21:56:10,475 - MCPClient - INFO - Tool get_docs result: meta=None content=[TextContent(type='text', text='Error executing tool get_docs: Library Langchain not supported by this tool', annotations=None)] isError=True...
+2025-06-23 21:56:10,477 - MCPClient - INFO - Calling LLM
+2025-06-23 21:56:10,478 - MCPClient - ERROR - Error calling LLM: Object of type TextContent is not JSON serializable
+2025-06-23 21:56:10,479 - MCPClient - ERROR - Error processing query: Object of type TextContent is not JSON serializable
+2025-06-23 21:56:34,116 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:56:36,708 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:56:36,712 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:56:38,220 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:56:38,221 - MCPClient - INFO - Calling LLM
+2025-06-23 21:56:38,767 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'LangChain'}
+2025-06-23 21:56:41,024 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 21:56:41,026 - MCPClient - INFO - Calling LLM
+2025-06-23 21:56:41,027 - MCPClient - ERROR - Error calling LLM: Object of type TextContent is not JSON serializable
+2025-06-23 21:56:41,028 - MCPClient - ERROR - Error processing query: Object of type TextContent is not JSON serializable
+2025-06-23 21:58:41,736 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 21:58:44,258 - MCPClient - INFO - Connected to MCP server
+2025-06-23 21:58:44,262 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 21:58:48,182 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 21:58:48,182 - MCPClient - INFO - Calling LLM
+2025-06-23 21:58:48,747 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Langchain'}
+2025-06-23 21:58:51,439 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 21:58:51,441 - MCPClient - INFO - Calling LLM
+2025-06-23 21:58:51,470 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'error': {'message': "'messages.1' : for 'role:assistant' the following must be satisfied[('messages.1.content' : value must be a string)]", 'type': 'invalid_request_error'}}
+2025-06-23 21:58:51,470 - MCPClient - ERROR - Error processing query: Error code: 400 - {'error': {'message': "'messages.1' : for 'role:assistant' the following must be satisfied[('messages.1.content' : value must be a string)]", 'type': 'invalid_request_error'}}
+2025-06-23 22:03:56,881 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:03:59,532 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:03:59,535 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 22:04:01,287 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:04:01,287 - MCPClient - INFO - Calling LLM
+2025-06-23 22:04:01,868 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:04:01,868 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'LangChain'}
+2025-06-23 22:04:04,561 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 22:04:04,562 - MCPClient - INFO - Calling LLM
+2025-06-23 22:04:04,589 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'error': {'message': "'messages.1' : for 'role:user' the following must be satisfied[('messages.1.content' : one of the following must be satisfied[('messages.1.content' : value must be a string) OR ('messages.1.content.0' : one of the following must be satisfied[('messages.1.content.0.type' : value is not one of the allowed values ['text']) OR ('messages.1.content.0.type' : value is not one of the allowed values ['image_url'])])])]", 'type': 'invalid_request_error'}}
+2025-06-23 22:04:04,589 - MCPClient - ERROR - Error processing query: Error code: 400 - {'error': {'message': "'messages.1' : for 'role:user' the following must be satisfied[('messages.1.content' : one of the following must be satisfied[('messages.1.content' : value must be a string) OR ('messages.1.content.0' : one of the following must be satisfied[('messages.1.content.0.type' : value is not one of the allowed values ['text']) OR ('messages.1.content.0.type' : value is not one of the allowed values ['image_url'])])])]", 'type': 'invalid_request_error'}}
+2025-06-23 22:05:57,153 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:05:59,749 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:05:59,754 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 22:06:01,663 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:06:01,664 - MCPClient - INFO - Calling LLM
+2025-06-23 22:06:02,264 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:06:02,264 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Chroma'}
+2025-06-23 22:06:05,023 - MCPClient - INFO - Calling LLM
+2025-06-23 22:06:05,053 - MCPClient - ERROR - Error calling LLM: Error code: 400 - {'error': {'message': "'messages.1' : for 'role:user' the following must be satisfied[('messages.1.content' : one of the following must be satisfied[('messages.1.content' : value must be a string) OR ('messages.1.content.0' : one of the following must be satisfied[('messages.1.content.0.type' : value is not one of the allowed values ['text']) OR ('messages.1.content.0.type' : value is not one of the allowed values ['image_url'])])])]", 'type': 'invalid_request_error'}}
+2025-06-23 22:06:05,053 - MCPClient - ERROR - Error processing query: Error code: 400 - {'error': {'message': "'messages.1' : for 'role:user' the following must be satisfied[('messages.1.content' : one of the following must be satisfied[('messages.1.content' : value must be a string) OR ('messages.1.content.0' : one of the following must be satisfied[('messages.1.content.0.type' : value is not one of the allowed values ['text']) OR ('messages.1.content.0.type' : value is not one of the allowed values ['image_url'])])])]", 'type': 'invalid_request_error'}}
+2025-06-23 22:10:23,243 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:10:25,856 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:10:25,860 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 22:10:29,815 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:10:29,815 - MCPClient - INFO - Calling LLM
+2025-06-23 22:10:30,398 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:10:30,399 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Langchain'}
+2025-06-23 22:10:33,152 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 22:10:33,157 - MCPClient - INFO - Calling LLM
+2025-06-23 22:10:33,409 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:10:33,411 - MCPClient - INFO - Calling tool get_docs with args {'library': 'Langchain', 'query': 'connect Langchain and Chroma DB'}
+2025-06-23 22:10:33,414 - MCPClient - INFO - Tool get_docs result: meta=None content=[TextContent(type='text', text='Error executing tool get_docs: Library Langchain not supported by this tool', annotations=None)] isError=True...
+2025-06-23 22:10:33,415 - MCPClient - INFO - Calling LLM
+2025-06-23 22:15:41,080 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:15:45,024 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:15:45,028 - MCPClient - INFO - Available tools: ['get_docs']
+2025-06-23 22:15:49,467 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:15:49,467 - MCPClient - INFO - Calling LLM
+2025-06-23 22:15:49,992 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:15:49,994 - MCPClient - INFO - Calling tool get_docs with args {'library': 'langchain', 'query': 'Chroma DB'}
+2025-06-23 22:16:00,955 - MCPClient - INFO - Calling LLM
+2025-06-23 22:16:01,094 - MCPClient - ERROR - Error calling LLM: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 49162, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-23 22:16:01,094 - MCPClient - ERROR - Error processing query: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 49162, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-23 22:16:46,001 - MCPClient - INFO - Processing query: give some detail about chroma db
+2025-06-23 22:16:46,001 - MCPClient - INFO - Calling LLM
+2025-06-23 22:16:46,308 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:16:46,309 - MCPClient - INFO - Calling tool get_docs with args {'library': 'langchain', 'query': 'Chroma DB'}
+2025-06-23 22:16:54,502 - MCPClient - INFO - Calling LLM
+2025-06-23 22:16:54,711 - MCPClient - ERROR - Error calling LLM: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 49160, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-23 22:16:54,711 - MCPClient - ERROR - Error processing query: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 49160, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-23 22:35:03,701 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:35:06,925 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:35:06,928 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 22:35:09,701 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:35:09,702 - MCPClient - INFO - Calling LLM
+2025-06-23 22:35:11,293 - MCPClient - ERROR - Error calling LLM: Connection error.
+2025-06-23 22:35:11,293 - MCPClient - ERROR - Error processing query: Connection error.
+2025-06-23 22:35:40,178 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:35:44,707 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:35:44,710 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 22:35:46,362 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:35:46,362 - MCPClient - INFO - Calling LLM
+2025-06-23 22:35:47,928 - MCPClient - ERROR - Error calling LLM: Connection error.
+2025-06-23 22:35:47,928 - MCPClient - ERROR - Error processing query: Connection error.
+2025-06-23 22:35:52,437 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:35:52,437 - MCPClient - INFO - Calling LLM
+2025-06-23 22:35:53,701 - MCPClient - ERROR - Error calling LLM: Connection error.
+2025-06-23 22:35:53,701 - MCPClient - ERROR - Error processing query: Connection error.
+2025-06-23 22:36:02,027 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:36:06,066 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:36:06,069 - MCPClient - INFO - Available tools: ['get_docs']
+2025-06-23 22:36:07,588 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:36:07,588 - MCPClient - INFO - Calling LLM
+2025-06-23 22:36:09,099 - MCPClient - ERROR - Error calling LLM: Connection error.
+2025-06-23 22:36:09,100 - MCPClient - ERROR - Error processing query: Connection error.
+2025-06-23 22:36:38,754 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:36:41,669 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:36:41,674 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 22:36:45,813 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:36:45,813 - MCPClient - INFO - Calling LLM
+2025-06-23 22:37:02,559 - MCPClient - ERROR - Error calling LLM: Connection error.
+2025-06-23 22:37:02,559 - MCPClient - ERROR - Error processing query: Connection error.
+2025-06-23 22:37:17,165 - MCPClient - INFO - Processing query: how do i connect langchain and chroma db
+2025-06-23 22:37:17,166 - MCPClient - INFO - Calling LLM
+2025-06-23 22:37:17,663 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:37:17,665 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'LangChain'}
+2025-06-23 22:37:21,354 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 22:37:21,355 - MCPClient - INFO - Calling LLM
+2025-06-23 22:37:21,624 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:37:21,626 - MCPClient - INFO - Calling tool get_docs with args {'library': 'LangChain', 'query': 'connection with Chroma DB'}
+2025-06-23 22:37:21,629 - MCPClient - INFO - Tool get_docs result: meta=None content=[TextContent(type='text', text='Error executing tool get_docs: Library LangChain not supported by this tool', annotations=None)] isError=True...
+2025-06-23 22:37:21,630 - MCPClient - INFO - Calling LLM
+2025-06-23 22:41:54,594 - MCPClient - INFO - Processing query: god of war
+2025-06-23 22:41:54,594 - MCPClient - INFO - Calling LLM
+2025-06-23 22:41:54,948 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:41:54,950 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'god of war'}
+2025-06-23 22:41:56,186 - MCPClient - INFO - Calling LLM
+2025-06-23 22:43:39,578 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:43:43,304 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:43:43,308 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 22:43:53,105 - MCPClient - INFO - Processing query: how do i connect langchain and chroma chroma db
+2025-06-23 22:43:53,106 - MCPClient - INFO - Calling LLM
+2025-06-23 22:43:53,720 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:43:53,723 - MCPClient - INFO - Calling tool get_docs with args {'library': 'langchain', 'query': 'Chroma DB'}
+2025-06-23 22:44:02,556 - MCPClient - INFO - Calling LLM
+2025-06-23 22:44:02,728 - MCPClient - ERROR - Error calling LLM: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 49163, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-23 22:44:02,729 - MCPClient - ERROR - Error processing query: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 49163, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-23 22:49:58,906 - MCPClient - INFO - Processing query: how do i connect langchain and chroma chroma db
+2025-06-23 22:49:58,906 - MCPClient - INFO - Calling LLM
+2025-06-23 22:49:59,319 - MCPClient - INFO - Received tool call from assistant.
+2025-06-23 22:49:59,320 - MCPClient - INFO - Calling tool get_docs with args {'library': 'langchain', 'query': 'Chroma DB'}
+2025-06-23 22:50:06,660 - MCPClient - INFO - Calling LLM
+2025-06-23 22:50:06,827 - MCPClient - ERROR - Error calling LLM: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 45831, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-23 22:50:06,827 - MCPClient - ERROR - Error processing query: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 45831, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-23 22:57:34,711 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 22:57:45,183 - MCPClient - INFO - Connected to MCP server
+2025-06-23 22:57:45,187 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 23:01:42,656 - MCPClient - INFO - Processing query: Hello
+2025-06-23 23:01:42,656 - MCPClient - INFO - Calling LLM
+2025-06-23 23:01:43,418 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': '?'}
+2025-06-23 23:01:46,762 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 23:01:46,764 - MCPClient - INFO - Calling LLM
+2025-06-23 23:02:00,890 - MCPClient - INFO - Processing query: god of war
+2025-06-23 23:02:00,891 - MCPClient - INFO - Calling LLM
+2025-06-23 23:02:01,216 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'god of war'}
+2025-06-23 23:02:02,552 - MCPClient - INFO - Calling LLM
+2025-06-23 23:02:02,829 - MCPClient - INFO - Calling tool get_docs with args {'library': 'openai', 'query': 'god of war'}
+2025-06-23 23:02:04,991 - MCPClient - INFO - Tool get_docs result: meta=None content=[TextContent(type='text', text='No results found', annotations=None)] isError=False...
+2025-06-23 23:02:04,996 - MCPClient - INFO - Calling LLM
+2025-06-23 23:02:51,046 - MCPClient - INFO - Processing query: god of war
+2025-06-23 23:02:51,046 - MCPClient - INFO - Calling LLM
+2025-06-23 23:02:51,582 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'God of War'}
+2025-06-23 23:02:52,924 - MCPClient - INFO - Calling LLM
+2025-06-23 23:02:53,191 - MCPClient - INFO - Calling tool get_docs with args {'library': 'langchain', 'query': 'God of War'}
+2025-06-23 23:03:07,504 - MCPClient - INFO - Calling LLM
+2025-06-23 23:03:07,975 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'God of War'}
+2025-06-23 23:03:09,317 - MCPClient - INFO - Calling LLM
+2025-06-23 23:03:40,490 - MCPClient - INFO - Processing query: similar games to god of war
+2025-06-23 23:03:40,491 - MCPClient - INFO - Calling LLM
+2025-06-23 23:03:40,850 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Darksiders'}
+2025-06-23 23:03:42,070 - MCPClient - INFO - Calling LLM
+2025-06-23 23:03:42,396 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Rusty Lake Hotel'}
+2025-06-23 23:03:43,465 - MCPClient - INFO - Calling LLM
+2025-06-23 23:03:43,804 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Monster Hunter: World'}
+2025-06-23 23:03:44,832 - MCPClient - INFO - Calling LLM
+2025-06-23 23:03:45,162 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Code Vein'}
+2025-06-23 23:03:46,372 - MCPClient - INFO - Calling LLM
+2025-06-23 23:04:01,932 - MCPClient - INFO - Calling tool get_docs with args {'library': 'langchain', 'query': 'Chroma DB'}
+2025-06-23 23:04:09,735 - MCPClient - INFO - Calling LLM
+2025-06-23 23:11:21,455 - MCPClient - INFO - Processing query: similar games to god of war
+2025-06-23 23:11:21,455 - MCPClient - INFO - Calling LLM
+2025-06-23 23:11:21,957 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Darksiders'}
+2025-06-23 23:11:23,212 - MCPClient - INFO - Calling LLM
+2025-06-23 23:11:23,695 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Rusty Lake Hotel'}
+2025-06-23 23:11:24,724 - MCPClient - INFO - Calling LLM
+2025-06-23 23:11:25,138 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Unforeseen Incidents'}
+2025-06-23 23:11:26,056 - MCPClient - INFO - Calling LLM
+2025-06-23 23:11:26,460 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'The Room 4: Old Sins'}
+2025-06-23 23:11:27,797 - MCPClient - INFO - Calling LLM
+2025-06-23 23:11:28,202 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': 'Myst'}
+2025-06-23 23:11:29,644 - MCPClient - INFO - Calling LLM
+2025-06-23 23:12:12,934 - MCPClient - INFO - Processing query: hello
+2025-06-23 23:12:12,935 - MCPClient - INFO - Calling LLM
+2025-06-23 23:12:13,461 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': ''}
+2025-06-23 23:12:14,897 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 23:12:14,899 - MCPClient - INFO - Calling LLM
+2025-06-23 23:12:27,559 - MCPClient - INFO - Processing query: hello
+2025-06-23 23:12:27,560 - MCPClient - INFO - Calling LLM
+2025-06-23 23:12:28,116 - MCPClient - INFO - Calling tool search_game_info with args {'game_name': ''}
+2025-06-23 23:12:29,194 - MCPClient - INFO - Tool search_game_info result: meta=None content=[TextContent(type='text', text='No game found.', annotations=None)] isError=False...
+2025-06-23 23:12:29,195 - MCPClient - INFO - Calling LLM
+2025-06-23 23:14:32,263 - MCPClient - INFO - Disconnected from MCP server
+2025-06-23 23:14:35,330 - MCPClient - INFO - Connected to MCP server
+2025-06-23 23:14:35,334 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-23 23:14:37,288 - MCPClient - INFO - Processing query: hello
+2025-06-23 23:14:46,103 - MCPClient - INFO - Processing query: Hello
+2025-06-23 23:16:47,349 - MCPClient - INFO - Processing query: tell me about games
+2025-06-23 23:25:02,706 - MCPClient - INFO - Processing query: Hello
+2025-06-23 23:27:45,871 - MCPClient - INFO - Processing query: hello
+2025-06-23 23:29:39,042 - MCPClient - INFO - Processing query: yo
+2025-06-23 23:31:13,231 - MCPClient - INFO - Processing query: Hola
+2025-06-23 23:33:09,027 - MCPClient - INFO - Processing query: yo
+2025-06-23 23:34:18,757 - MCPClient - INFO - Processing query: yo
+2025-06-23 23:34:36,260 - MCPClient - INFO - Processing query: hello
+2025-06-23 23:36:00,086 - MCPClient - INFO - Processing query: Hola
+2025-06-23 23:38:41,799 - MCPClient - INFO - Processing query: hola
+2025-06-23 23:40:32,020 - MCPClient - INFO - Processing query: hola
+2025-06-23 23:41:18,625 - MCPClient - INFO - Processing query: what is llama
+2025-06-23 23:41:19,084 - MCPClient - ERROR - Error processing query: Expecting ',' delimiter: line 1 column 153 (char 152)
+2025-06-23 23:42:09,868 - MCPClient - INFO - Processing query: what is the meaning of benovelent
+2025-06-23 23:42:20,180 - MCPClient - INFO - Processing query: llama
+2025-06-23 23:48:19,583 - MCPClient - INFO - Processing query: hola
+2025-06-23 23:48:35,534 - MCPClient - INFO - Processing query: hola
+2025-06-23 23:51:13,272 - MCPClient - INFO - Processing query: hola
+2025-06-23 23:53:50,815 - MCPClient - INFO - Processing query: hola
+2025-06-23 23:54:13,624 - MCPClient - INFO - Processing query: god of war
+2025-06-23 23:57:16,791 - MCPClient - INFO - Processing query: hola
+2025-06-24 00:01:44,940 - MCPClient - INFO - Processing query: hola
+2025-06-24 00:02:07,409 - MCPClient - INFO - Processing query: yo
+2025-06-24 00:04:09,445 - MCPClient - INFO - Processing query: yohoo
+2025-06-24 00:05:19,571 - MCPClient - INFO - Processing query: hello
+2025-06-24 00:07:42,555 - MCPClient - INFO - Processing query: hola
+2025-06-24 00:07:50,745 - MCPClient - INFO - Processing query: whatsup
+2025-06-24 00:09:12,839 - MCPClient - INFO - Processing query: hola
+2025-06-24 00:09:28,028 - MCPClient - INFO - Processing query: kaise ho aap
+2025-06-24 00:09:40,067 - MCPClient - INFO - Processing query: kya aap hindi jaante ho
+2025-06-24 00:10:23,104 - MCPClient - INFO - Processing query: just tell me some of the story games like gta san andreas
+2025-06-24 00:10:54,634 - MCPClient - INFO - Processing query: give some rockstar games
+2025-06-24 00:11:13,645 - MCPClient - INFO - Processing query: you know about chroma db
+2025-06-24 00:11:58,226 - MCPClient - INFO - Processing query: search the web about chroma db
+2025-06-24 00:12:10,708 - MCPClient - INFO - Processing query: chroma db in llama
+2025-06-24 00:16:44,852 - MCPClient - INFO - Processing query: chroma db in llama
+2025-06-24 00:16:45,169 - MCPClient - ERROR - Error processing query: Expecting ',' delimiter: line 1 column 160 (char 159)
+2025-06-24 00:17:00,805 - MCPClient - INFO - Processing query: hola
+2025-06-24 00:17:10,266 - MCPClient - INFO - Processing query: chroma db in llama-index
+2025-06-24 00:17:10,609 - MCPClient - ERROR - Error processing query: Expecting ',' delimiter: line 1 column 161 (char 160)
+2025-06-24 00:18:43,713 - MCPClient - INFO - Processing query: god of war
+2025-06-24 00:18:54,427 - MCPClient - INFO - Processing query: hola
+2025-06-24 00:18:58,850 - MCPClient - INFO - Processing query: chroma db in llama-index
+2025-06-24 00:18:59,108 - MCPClient - ERROR - Error processing query: Expecting ',' delimiter: line 1 column 161 (char 160)
+2025-06-24 00:19:04,671 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 00:19:07,763 - MCPClient - INFO - Connected to MCP server
+2025-06-24 00:19:07,767 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 00:19:16,400 - MCPClient - INFO - Processing query: chroma db in llama-index
+2025-06-24 00:19:16,956 - MCPClient - ERROR - Failed to parse LLM classification response: Expecting ',' delimiter: line 1 column 161 (char 160)
+2025-06-24 00:19:16,956 - MCPClient - ERROR - Raw LLM output:
+{"action": "get_docs", "query": "chroma db", "library": "llama-index", "user_friendly_response": "Here's what I found in the llama-index docs about 'chroma db'";}
+2025-06-24 00:21:18,805 - MCPClient - INFO - Processing query: chroma db in llama-index
+2025-06-24 00:21:28,244 - MCPClient - ERROR - Error processing query: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 92422, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-24 00:21:38,400 - MCPClient - INFO - Processing query: hola
+2025-06-24 00:22:00,004 - MCPClient - INFO - Processing query: tell similarty between resident evil and silent hill
+2025-06-24 00:22:17,652 - MCPClient - INFO - Processing query: god of war
+2025-06-24 00:22:34,618 - MCPClient - INFO - Processing query: god of war
+2025-06-24 00:23:20,491 - MCPClient - INFO - Processing query: give json format for god of war from tool
+2025-06-24 00:23:38,726 - MCPClient - INFO - Processing query: so you are using tools
+2025-06-24 00:23:50,104 - MCPClient - INFO - Processing query: alan wake
+2025-06-24 00:24:12,691 - MCPClient - INFO - Processing query: similar games like alan wake
+2025-06-24 00:24:48,841 - MCPClient - INFO - Processing query: give concise answer for chroma db
+2025-06-24 00:25:04,999 - MCPClient - ERROR - Error processing query: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 43061, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-24 00:25:22,924 - MCPClient - INFO - Processing query: how to install langchain
+2025-06-24 00:25:40,885 - MCPClient - ERROR - Error processing query: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 34759, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-24 00:28:29,021 - MCPClient - INFO - Processing query: chroma db in concise form
+2025-06-24 00:28:40,345 - MCPClient - ERROR - Error processing query: Error code: 413 - {'error': {'message': 'Request too large for model `llama3-70b-8192` in organization `org_01jy7a3eryfsfspq0p2cgd9wcm` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 49194, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-06-24 09:27:38,785 - MCPClient - INFO - Connected to MCP server
+2025-06-24 09:27:38,790 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 09:28:20,048 - MCPClient - INFO - Processing query: hello
+2025-06-24 09:28:33,697 - MCPClient - INFO - Processing query: god of war vs assassins creed
+2025-06-24 09:28:57,669 - MCPClient - INFO - Processing query: god of war
+2025-06-24 09:31:13,864 - MCPClient - INFO - Processing query: which studio makes games like god of war as well as alan wake
+2025-06-24 09:31:36,351 - MCPClient - INFO - Processing query: alan wake
+2025-06-24 09:33:22,452 - MCPClient - INFO - Processing query: yo games
+2025-06-24 09:33:41,857 - MCPClient - INFO - Processing query: give some good games by rating
+2025-06-24 09:39:44,581 - MCPClient - INFO - Processing query: hello
+2025-06-24 09:39:56,205 - MCPClient - INFO - Processing query: games like god of war
+2025-06-24 09:40:25,997 - MCPClient - INFO - Processing query: give more interesting games like above
+2025-06-24 09:40:51,199 - MCPClient - INFO - Processing query: what is our last conversation
+2025-06-24 09:41:17,351 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 09:41:20,640 - MCPClient - INFO - Connected to MCP server
+2025-06-24 09:41:20,644 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 09:41:28,916 - MCPClient - INFO - Processing query: yo
+2025-06-24 09:41:39,415 - MCPClient - INFO - Processing query: what are some good games
+2025-06-24 09:42:05,968 - MCPClient - INFO - Processing query: celeste looks great
+2025-06-24 09:42:37,654 - MCPClient - INFO - Processing query: yes
+2025-06-24 09:46:18,758 - MCPClient - INFO - Processing query: yo
+2025-06-24 09:47:50,528 - MCPClient - INFO - Processing query: hola
+2025-06-24 09:47:59,584 - MCPClient - INFO - Processing query: how u doin
+2025-06-24 09:52:25,900 - MCPClient - INFO - Processing query: yo
+2025-06-24 09:52:36,830 - MCPClient - INFO - Processing query: yo
+2025-06-24 09:53:04,560 - MCPClient - INFO - Processing query: hello
+2025-06-24 09:56:14,164 - MCPClient - INFO - Processing query: yo
+2025-06-24 09:56:20,620 - MCPClient - INFO - Processing query: hi
+2025-06-24 09:58:03,418 - MCPClient - INFO - Processing query: yo
+2025-06-24 09:59:34,976 - MCPClient - INFO - Processing query: yo
+2025-06-24 10:00:15,141 - MCPClient - INFO - Processing query: yo
+2025-06-24 10:00:28,527 - MCPClient - INFO - Processing query: yo
+2025-06-24 10:00:53,859 - MCPClient - INFO - Processing query: lol
+2025-06-24 14:05:42,137 - MCPClient - INFO - Connected to MCP server
+2025-06-24 14:05:42,141 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 14:06:14,326 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:09:07,020 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:09:15,585 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:12:21,552 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:17:02,613 - MCPClient - INFO - Processing query: lol
+2025-06-24 14:17:11,823 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:18:01,489 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 14:18:05,241 - MCPClient - INFO - Connected to MCP server
+2025-06-24 14:18:05,244 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 14:18:22,239 - MCPClient - INFO - Processing query: lo
+2025-06-24 14:18:27,271 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:18:38,967 - MCPClient - INFO - Processing query: lols
+2025-06-24 14:18:47,041 - MCPClient - INFO - Processing query: whats up
+2025-06-24 14:19:11,157 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:19:14,736 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:21:02,357 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:21:11,483 - MCPClient - INFO - Processing query: lolz
+2025-06-24 14:22:31,807 - MCPClient - INFO - Processing query: lol
+2025-06-24 14:22:36,951 - MCPClient - INFO - Processing query: hello
+2025-06-24 14:25:23,529 - MCPClient - INFO - Processing query: lo
+2025-06-24 14:25:30,555 - MCPClient - INFO - Processing query: hlo
+2025-06-24 14:25:36,389 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:28:17,380 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:28:26,146 - MCPClient - INFO - Processing query: what u doin
+2025-06-24 14:28:28,996 - MCPClient - INFO - Processing query: hlo
+2025-06-24 14:28:44,382 - MCPClient - INFO - Processing query: lol
+2025-06-24 14:28:51,454 - MCPClient - INFO - Processing query: hello
+2025-06-24 14:36:22,775 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 14:36:26,167 - MCPClient - INFO - Connected to MCP server
+2025-06-24 14:36:26,170 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 14:36:31,633 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:36:37,600 - MCPClient - INFO - Processing query: whatsup
+2025-06-24 14:37:43,717 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:37:48,845 - MCPClient - INFO - Processing query: lolz
+2025-06-24 14:42:32,668 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:42:37,090 - MCPClient - INFO - Processing query: lolz
+2025-06-24 14:42:52,696 - MCPClient - INFO - Processing query: what
+2025-06-24 14:47:21,655 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:47:27,375 - MCPClient - INFO - Processing query: hello sir
+2025-06-24 14:47:45,525 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 14:47:48,796 - MCPClient - INFO - Connected to MCP server
+2025-06-24 14:47:48,799 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 14:48:00,202 - MCPClient - INFO - Processing query: hello
+2025-06-24 14:48:05,062 - MCPClient - INFO - Processing query: how are you
+2025-06-24 14:48:54,912 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 14:48:58,131 - MCPClient - INFO - Connected to MCP server
+2025-06-24 14:48:58,134 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 14:49:04,579 - MCPClient - INFO - Processing query: hello
+2025-06-24 14:49:06,769 - MCPClient - INFO - Processing query: hi
+2025-06-24 14:50:27,898 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 14:50:31,522 - MCPClient - INFO - Connected to MCP server
+2025-06-24 14:50:31,525 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 14:50:41,290 - MCPClient - INFO - Processing query: hello
+2025-06-24 14:50:44,209 - MCPClient - INFO - Processing query: hi
+2025-06-24 14:50:50,302 - MCPClient - INFO - Processing query: how u doin
+2025-06-24 14:51:13,941 - MCPClient - INFO - Processing query: what are your thoughts
+2025-06-24 14:53:24,523 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:53:28,917 - MCPClient - INFO - Processing query: whatsup
+2025-06-24 14:53:36,833 - MCPClient - INFO - Processing query: how u doin
+2025-06-24 14:54:21,318 - MCPClient - INFO - Processing query: yo
+2025-06-24 14:54:23,861 - MCPClient - INFO - Processing query: lol
+2025-06-24 14:54:27,007 - MCPClient - INFO - Processing query: whats
+2025-06-24 14:54:35,602 - MCPClient - INFO - Processing query: getting there now
+2025-06-24 14:55:07,354 - MCPClient - INFO - Processing query: give some games that are good 
+2025-06-24 14:55:36,179 - MCPClient - INFO - Processing query: witcher looks good i think what bout u
+2025-06-24 14:55:52,909 - MCPClient - INFO - Processing query: yes give that
+2025-06-24 14:56:16,425 - MCPClient - INFO - Processing query: ok what others do u recommend
+2025-06-24 15:46:15,201 - MCPClient - INFO - Processing query: yo
+2025-06-24 16:19:06,594 - MCPClient - INFO - Processing query: do you know some great racing games
+2025-06-24 23:19:54,660 - MCPClient - INFO - Connected to MCP server
+2025-06-24 23:19:54,664 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 23:20:48,964 - MCPClient - INFO - Processing query: hello
+2025-06-24 23:20:59,562 - MCPClient - INFO - Processing query: tell me about god of war
+2025-06-24 23:21:47,372 - MCPClient - INFO - Processing query: how do you find the above info about god of war did you use tool as well as rag
+2025-06-24 23:26:02,892 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 23:26:19,535 - MCPClient - INFO - Connected to MCP server
+2025-06-24 23:26:19,538 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 23:29:17,257 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 23:29:32,576 - MCPClient - INFO - Connected to MCP server
+2025-06-24 23:29:32,580 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 23:29:43,634 - MCPClient - INFO - Processing query: hello
+2025-06-24 23:29:47,173 - MCPClient - INFO - Processing query: hi
+2025-06-24 23:29:57,618 - MCPClient - INFO - Processing query: tell me about god of war
+2025-06-24 23:32:02,604 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 23:43:34,538 - MCPClient - INFO - Connected to MCP server
+2025-06-24 23:43:34,542 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 23:44:44,626 - MCPClient - INFO - Processing query: hello
+2025-06-24 23:45:00,798 - MCPClient - INFO - Processing query: tell me some games like god of war
+2025-06-24 23:50:31,949 - MCPClient - INFO - Disconnected from MCP server
+2025-06-24 23:50:47,937 - MCPClient - INFO - Connected to MCP server
+2025-06-24 23:50:47,941 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-24 23:51:09,320 - MCPClient - INFO - Processing query: hello
+2025-06-24 23:51:18,429 - MCPClient - INFO - Processing query: alan wake
+2025-06-24 23:51:32,782 - MCPClient - INFO - Processing query: yo
+2025-06-24 23:53:34,781 - MCPClient - INFO - Disconnected from MCP server

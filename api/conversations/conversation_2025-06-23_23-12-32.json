@@ -1,0 +1,23 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": null
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool result for `search_game_info`:\nNo game found."
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "I didn't get any information about a video game from IGDB. Would you like to search for something else or ask a different question?"
+  }
+]
