@@ -493,3 +493,17 @@
 2025-06-24 23:51:18,429 - MCPClient - INFO - Processing query: alan wake
 2025-06-24 23:51:32,782 - MCPClient - INFO - Processing query: yo
 2025-06-24 23:53:34,781 - MCPClient - INFO - Disconnected from MCP server
+2025-06-25 19:48:54,300 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-25 19:48:54,338 - MCPClient - INFO - Disconnected from MCP server
+2025-06-25 19:51:26,620 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-25 19:51:26,627 - MCPClient - INFO - Disconnected from MCP server
+2025-06-25 19:52:33,543 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-25 19:52:33,550 - MCPClient - INFO - Disconnected from MCP server
+2025-06-25 19:53:55,539 - MCPClient - ERROR - Error connecting to MCP server: 
+2025-06-25 19:53:55,546 - MCPClient - INFO - Disconnected from MCP server
+2025-06-25 21:05:45,848 - MCPClient - INFO - Connected to MCP server
+2025-06-25 21:05:45,852 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-25 21:06:15,471 - MCPClient - INFO - Processing query: yo
+2025-06-25 21:06:22,564 - MCPClient - INFO - Processing query: how u doin
+2025-06-25 21:06:31,175 - MCPClient - INFO - Processing query: tell me about god of war
+2025-06-25 21:16:21,856 - MCPClient - INFO - Disconnected from MCP server
