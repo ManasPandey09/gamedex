@@ -1,4 +1,4 @@
-# 🎮 GameDex – AI Game Assistant Powered by MCP, Groq, Pinecone, and Streamlit
+# 🎮 GameDex
 
 GameDex is an intelligent assistant focused on providing information about **video games** using a combination of tools, LLM routing, and a RAG system powered by **Steam dataset + Pinecone**. It features a Streamlit-based frontend and a Python backend using the **Model Context Protocol (MCP)**.
 
