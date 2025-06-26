@@ -507,3 +507,10 @@
 2025-06-25 21:06:22,564 - MCPClient - INFO - Processing query: how u doin
 2025-06-25 21:06:31,175 - MCPClient - INFO - Processing query: tell me about god of war
 2025-06-25 21:16:21,856 - MCPClient - INFO - Disconnected from MCP server
+2025-06-26 20:31:59,471 - MCPClient - INFO - Connected to MCP server
+2025-06-26 20:31:59,475 - MCPClient - INFO - Available tools: ['search_game_info', 'get_docs']
+2025-06-26 20:32:10,410 - MCPClient - INFO - Processing query: yo
+2025-06-26 20:32:31,618 - MCPClient - INFO - Processing query: tell me about alan wake
+2025-06-26 20:34:49,285 - MCPClient - INFO - Processing query: Hello
+2025-06-26 20:35:10,165 - MCPClient - INFO - Processing query: tell me about resident evil in short
+2025-06-26 21:01:02,438 - MCPClient - INFO - Disconnected from MCP server
