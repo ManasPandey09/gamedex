@@ -33,7 +33,7 @@ GameDex is an intelligent assistant focused on providing information about **vid
 
 ---
 
-## 📚 RAG: Game Info Only
+## 📚 RAG: Game Info
 
 The Retrieval-Augmented Generation (RAG) system in GameDex is built specifically for **video games**.
 
